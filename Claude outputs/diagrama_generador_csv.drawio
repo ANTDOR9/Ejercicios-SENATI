@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Generador de CSV" id="generador1">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="a1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="160" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a2" value="Fijar semilla aleatoria&#10;np.random.seed(42)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a3" value="Generar 500 fechas habiles&#10;pd.bdate_range()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a4" value="Generar cambios diarios aleatorios&#10;np.random.normal()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a5" value="Calcular precio_cierre&#10;(caminata aleatoria: np.cumprod)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a6" value="Derivar precio_apertura&#10;a partir del cierre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a7" value="Derivar precio_max y precio_min&#10;(apertura y cierre + variacion)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a8" value="Generar volumen negociado&#10;np.random.randint()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="590" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a9" value="Construir tabla final&#10;pd.DataFrame()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a10" value="Crear columna tendencia&#10;diff() mayor a 0 = sube (1), si no baja (0)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a11" value="datos_mercado_financiero.csv" style="shape=parallelogram;whiteSpace=wrap;html=1;perimeter=parallelogramPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="830" width="200" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a12" value="Fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="b1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a1" target="a2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a2" target="a3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a3" target="a4"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a4" target="a5"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a5" target="a6"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a6" target="a7"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a7" target="a8"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a8" target="a9"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a9" target="a10"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a10" target="a11"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="b11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="a11" target="a12"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
