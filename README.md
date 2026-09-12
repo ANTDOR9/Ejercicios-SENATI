@@ -26,3 +26,4 @@ Repositorio de ejercicios y práctica del curso de Python aplicado a Machine Lea
 ## Notas
 
 Este README se mantiene simple por ahora; se puede ampliar más adelante con más detalle por carpeta.
+ss
