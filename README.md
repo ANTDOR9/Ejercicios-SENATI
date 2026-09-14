@@ -1,4 +1,4 @@
-# Ejercicios-SENATI
+# Ejercicios-SENATI (TRABAJOS)
 
 Repositorio de ejercicios y práctica del curso de Python aplicado a Machine Learning (SENATI).
 
