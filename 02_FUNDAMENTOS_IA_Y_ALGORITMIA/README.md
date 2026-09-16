@@ -19,6 +19,8 @@ Sentar la base matemática necesaria antes de profundizar en Machine Learning: �
 
 ➡️ [`practica/introduccion.md`](practica/introduccion.md) — teoría introductoria antes de los ejercicios.
 
+➡️ [`practica/algebra_y_estadistica_basica.md`](practica/algebra_y_estadistica_basica.md) — guía práctica con las operaciones y funciones que vas a necesitar para los ejercicios.
+
 ## 🗒️ Nota
 
 Carpeta en progreso 🔄 — se irá completando a medida que avance el curso. Aquí van los notebooks y ejercicios de esta etapa.
