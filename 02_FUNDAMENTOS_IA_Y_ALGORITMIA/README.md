@@ -15,6 +15,10 @@ Sentar la base matemática necesaria antes de profundizar en Machine Learning: �
 3. Estudiar los principios y variables estadísticas.
 4. Realizar operaciones con la varianza y desviación estándar.
 
+## 📖 Empieza aquí
+
+➡️ [`practica/introduccion.md`](practica/introduccion.md) — teoría introductoria antes de los ejercicios.
+
 ## 🗒️ Nota
 
 Carpeta en progreso 🔄 — se irá completando a medida que avance el curso. Aquí van los notebooks y ejercicios de esta etapa.
