@@ -33,9 +33,15 @@ Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software c
 | 06 | [Trabajo Final](01_MACHINE_LEARNING_Y_NLP/06_TRABAJO_FINAL) | Proyecto integrador del curso | ✅ |
 | 07 | [Primeros pasos IA](01_MACHINE_LEARNING_Y_NLP/07_PRIMEROS_PASOS_IA) | Ejercicios introductorios | ✅ |
 
-### 02_FUNDAMENTOS_IA_Y_ALGORITMIA/ — Curso nuevo (en progreso 🔄)
+### 02_FUNDAMENTOS_IA_Y_ALGORITMIA/ — Curso: Fundamentos y Algoritmia para IA (en progreso 🔄)
 
-Álgebra lineal, vectores y matrices, estadística (varianza, desviación estándar), fundamentos de IA.
+| # | Carpeta | Contenido | Estado |
+|---|---|---|---|
+| 01 | [Fundamentos IA](02_FUNDAMENTOS_IA_Y_ALGORITMIA/01_FUNDAMENTOS_IA) | Teoría introductoria, perceptrón, softmax, KNN y K-Means | ✅ |
+| 02 | [Álgebra y Estadística](02_FUNDAMENTOS_IA_Y_ALGORITMIA/02_ALGEBRA_Y_ESTADISTICA) | Vectores, matrices, determinante, inversa, sistemas, valores propios, varianza | ✅ |
+| 03 | [Redes Neuronales](02_FUNDAMENTOS_IA_Y_ALGORITMIA/03_REDES_NEURONALES) | Redes densas (Iris, Wine) y CNN para reconocimiento facial | ✅ |
+| 04 | [Visualización de Datos](02_FUNDAMENTOS_IA_Y_ALGORITMIA/04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
+| 05 | [Investigación extra](02_FUNDAMENTOS_IA_Y_ALGORITMIA/05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
 
 ### Otras carpetas
 
@@ -47,7 +53,7 @@ Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software c
 ## ⚙️ Cómo ejecutar los notebooks
 
 ```bash
-pip install pandas numpy scikit-learn tensorflow sqlalchemy jupyter
+pip install pandas numpy scikit-learn tensorflow sqlalchemy matplotlib seaborn jupyter
 ```
 
 Abre el notebook deseado en Jupyter, VS Code o tu editor preferido, y ejecuta las celdas en orden de arriba hacia abajo.
@@ -56,4 +62,4 @@ Abre el notebook deseado en Jupyter, VS Code o tu editor preferido, y ejecuta la
 
 ## 📌 Notas
 
-Repositorio reorganizado por curso/módulo para facilitar el repaso. Cada carpeta numerada representa un bloque temático dentro del curso de Machine Learning y NLP.
+Repositorio reorganizado por curso/módulo para facilitar el repaso. Cada carpeta numerada representa un bloque temático dentro de su curso.

@@ -15,12 +15,22 @@ Sentar la base matemática necesaria antes de profundizar en Machine Learning: �
 3. Estudiar los principios y variables estadísticas.
 4. Realizar operaciones con la varianza y desviación estándar.
 
+## 🗂️ Estructura
+
+| # | Carpeta | Contenido | Estado |
+|---|---|---|---|
+| 01 | [Fundamentos IA](01_FUNDAMENTOS_IA) | Teoría introductoria, perceptrón, softmax, KNN y K-Means | ✅ |
+| 02 | [Álgebra y Estadística](02_ALGEBRA_Y_ESTADISTICA) | Vectores, matrices, determinante, inversa, sistemas, valores propios, varianza | ✅ |
+| 03 | [Redes Neuronales](03_REDES_NEURONALES) | Redes densas (Iris, Wine) y CNN para reconocimiento facial | ✅ |
+| 04 | [Visualización de Datos](04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
+| 05 | [Investigación extra](05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
+
+## 📄 Informe
+
+[`cuaderno_practicas_fundamentos_ia.docx`](cuaderno_practicas_fundamentos_ia.docx) — Cuaderno de prácticas de los temas 01 y 02.
+
 ## 📖 Empieza aquí
 
-➡️ [`practica/introduccion.md`](practica/introduccion.md) — teoría introductoria antes de los ejercicios.
+➡️ [`01_FUNDAMENTOS_IA/introduccion.md`](01_FUNDAMENTOS_IA/introduccion.md) — teoría introductoria antes de los ejercicios.
 
-➡️ [`practica/algebra_y_estadistica_basica.md`](practica/algebra_y_estadistica_basica.md) — guía práctica con las operaciones y funciones que vas a necesitar para los ejercicios.
-
-## 🗒️ Nota
-
-Carpeta en progreso 🔄 — se irá completando a medida que avance el curso. Aquí van los notebooks y ejercicios de esta etapa.
+➡️ [`02_ALGEBRA_Y_ESTADISTICA/algebra_y_estadistica_basica.md`](02_ALGEBRA_Y_ESTADISTICA/algebra_y_estadistica_basica.md) — guía práctica con las operaciones y funciones para los ejercicios.
