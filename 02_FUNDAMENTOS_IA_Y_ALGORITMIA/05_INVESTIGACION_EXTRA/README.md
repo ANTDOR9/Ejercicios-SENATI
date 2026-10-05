@@ -3,6 +3,7 @@
 <p>
 <a href="../README.md"><img src="https://img.shields.io/badge/⬅️_Menú_del_curso-333333?style=for-the-badge" /></a>
 <a href="../04_VISUALIZACION_DATOS"><img src="https://img.shields.io/badge/◀️_Anterior_(Visualización)-6c757d?style=for-the-badge" /></a>
+<a href="../06_TRABAJOS_EN_CLASE"><img src="https://img.shields.io/badge/▶️_Siguiente_(Trabajos_en_clase)-6c757d?style=for-the-badge" /></a>
 </p>
 
 > Material de investigación personal, **no** visto en clase.
