@@ -3,6 +3,7 @@
 <p>
 <a href="../README.md"><img src="https://img.shields.io/badge/⬅️_Menú_del_curso-333333?style=for-the-badge" /></a>
 <a href="../05_INVESTIGACION_EXTRA"><img src="https://img.shields.io/badge/◀️_Anterior_(Investigación_extra)-6c757d?style=for-the-badge" /></a>
+<a href="../07_TRABAJO_FINAL"><img src="https://img.shields.io/badge/▶️_Siguiente_(Trabajo_final)-6c757d?style=for-the-badge" /></a>
 </p>
 
 ## 🎯 Objetivo

@@ -43,6 +43,7 @@ Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software c
 | 04 | [Visualización de Datos](02_FUNDAMENTOS_IA_Y_ALGORITMIA/04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
 | 05 | [Investigación extra](02_FUNDAMENTOS_IA_Y_ALGORITMIA/05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
 | 06 | [Trabajos en clase](02_FUNDAMENTOS_IA_Y_ALGORITMIA/06_TRABAJOS_EN_CLASE) | Regresión Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
+| 07 | [Trabajo Final](02_FUNDAMENTOS_IA_Y_ALGORITMIA/07_TRABAJO_FINAL) | Caso DataExpert con el dataset Seeds: estadística, álgebra lineal y KNN vs. Árbol | 🔄 |
 
 ### Otras carpetas
 
