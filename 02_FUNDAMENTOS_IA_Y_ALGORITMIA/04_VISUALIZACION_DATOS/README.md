@@ -18,6 +18,8 @@ Generar reportes estadísticos con pandas (`max`, `count`, `mean`, `sum`, `group
 | [`02_reporte_ventas_groupby.ipynb`](02_reporte_ventas_groupby.ipynb) | Funciones de varias filas, filtros por vendedor y `groupby` con gráfico de barras |
 | [`03_histogramas_propinas_tips.ipynb`](03_histogramas_propinas_tips.ipynb) | Dataset `tips` de Seaborn: histogramas y reportes por sexo |
 | [`04_reporte_ventas_por_vendedor.ipynb`](04_reporte_ventas_por_vendedor.ipynb) | Suma y promedio por vendedor combinados en un gráfico |
+| [`05_graficos_basicos_matplotlib.ipynb`](05_graficos_basicos_matplotlib.ipynb) | Gráficos básicos: barras, dispersión, líneas, torta e histograma |
+| [`06_reporte_iris_promedio_por_especie.ipynb`](06_reporte_iris_promedio_por_especie.ipynb) | Dataset Iris: promedio por especie con `groupby` y barras superpuestas |
 
 ## 🗒️ Conclusión
 

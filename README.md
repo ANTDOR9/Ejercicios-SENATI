@@ -1,67 +1,38 @@
-# 🎓 Ejercicios SENATI — Ingeniería de Software con IA
-
-Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software con Inteligencia Artificial (PIAD)** — SENATI.
-
-<br>
-
-## 🚀 Accesos rápidos
+# 📐 Fundamentos y Algoritmia para Inteligencia Artificial (Semestre IV)
 
 <p>
-<a href="01_MACHINE_LEARNING_Y_NLP/01_PANDAS"><img src="https://img.shields.io/badge/📊_Pandas-4E9A06?style=for-the-badge" /></a>
-<a href="01_MACHINE_LEARNING_Y_NLP/02_SCIKIT_LEARN"><img src="https://img.shields.io/badge/🤖_Scikit--Learn-F89939?style=for-the-badge" /></a>
-<a href="01_MACHINE_LEARNING_Y_NLP/03_TENSORFLOW_KERAS"><img src="https://img.shields.io/badge/🧠_TensorFlow%2FKeras-FF6F00?style=for-the-badge" /></a>
-<a href="01_MACHINE_LEARNING_Y_NLP/04_NLP"><img src="https://img.shields.io/badge/💬_NLP-4B8BBE?style=for-the-badge" /></a>
-<a href="01_MACHINE_LEARNING_Y_NLP/05_TRANSFORMERS"><img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" /></a>
-<a href="01_MACHINE_LEARNING_Y_NLP/06_TRABAJO_FINAL"><img src="https://img.shields.io/badge/🏁_Trabajo_Final-6A1B9A?style=for-the-badge" /></a>
-<a href="02_FUNDAMENTOS_IA_Y_ALGORITMIA"><img src="https://img.shields.io/badge/📐_Fundamentos_IA-0D47A1?style=for-the-badge" /></a>
-<a href="DOCUMENTACION%20TEORICA"><img src="https://img.shields.io/badge/📚_Documentación_Teórica-616161?style=for-the-badge" /></a>
+<a href="../README.md"><img src="https://img.shields.io/badge/⬅️_Menú_principal-333333?style=for-the-badge" /></a>
 </p>
 
-<br>
+## 🎯 Objetivo del curso
 
-## 🗂️ Estructura del repositorio
+Sentar la base matemática necesaria antes de profundizar en Machine Learning: álgebra lineal (vectores y matrices), estadística básica (varianza, desviación estándar) y fundamentos generales de Inteligencia Artificial.
 
-### 01_MACHINE_LEARNING_Y_NLP/ — Curso: Python aplicado a Machine Learning y NLP
+## 📋 Temario (según el Plan Específico de Aprendizaje - PIAD-E4)
 
-| # | Carpeta | Contenido | Estado |
-|---|---|---|---|
-| 01 | [Pandas](01_MACHINE_LEARNING_Y_NLP/01_PANDAS) | Manipulación de tablas, filtrado, merge, groupby, conexión a SQL | ✅ |
-| 02 | [Scikit-Learn](01_MACHINE_LEARNING_Y_NLP/02_SCIKIT_LEARN) | Datasets Iris/Wine, train_test_split, árboles de decisión | ✅ |
-| 03 | [TensorFlow / Keras](01_MACHINE_LEARNING_Y_NLP/03_TENSORFLOW_KERAS) | Redes neuronales: clasificación binaria, regresión, multiclase | ✅ |
-| 04 | [NLP](01_MACHINE_LEARNING_Y_NLP/04_NLP) | Tokenización con NLTK, lematización y NER con spaCy | ✅ |
-| 05 | [Transformers](01_MACHINE_LEARNING_Y_NLP/05_TRANSFORMERS) | Modelos pre-entrenados (Hugging Face) para análisis de sentimientos | ✅ |
-| 06 | [Trabajo Final](01_MACHINE_LEARNING_Y_NLP/06_TRABAJO_FINAL) | Proyecto integrador del curso | ✅ |
-| 07 | [Primeros pasos IA](01_MACHINE_LEARNING_Y_NLP/07_PRIMEROS_PASOS_IA) | Ejercicios introductorios | ✅ |
+1. Estudiar los fundamentos de Inteligencia Artificial.
+2. Realizar operaciones con álgebra lineal, vectores y matrices.
+3. Estudiar los principios y variables estadísticas.
+4. Realizar operaciones con la varianza y desviación estándar.
 
-### 02_FUNDAMENTOS_IA_Y_ALGORITMIA/ — Curso: Fundamentos y Algoritmia para IA (en progreso 🔄)
+## 🗂️ Estructura
 
 | # | Carpeta | Contenido | Estado |
 |---|---|---|---|
-| 01 | [Fundamentos IA](02_FUNDAMENTOS_IA_Y_ALGORITMIA/01_FUNDAMENTOS_IA) | Teoría introductoria, perceptrón, softmax, KNN y K-Means | ✅ |
-| 02 | [Álgebra y Estadística](02_FUNDAMENTOS_IA_Y_ALGORITMIA/02_ALGEBRA_Y_ESTADISTICA) | Vectores, matrices, determinante, inversa, sistemas, valores propios, varianza | ✅ |
-| 03 | [Redes Neuronales](02_FUNDAMENTOS_IA_Y_ALGORITMIA/03_REDES_NEURONALES) | Redes densas (Iris, Wine) y CNN para reconocimiento facial | ✅ |
-| 04 | [Visualización de Datos](02_FUNDAMENTOS_IA_Y_ALGORITMIA/04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
-| 05 | [Investigación extra](02_FUNDAMENTOS_IA_Y_ALGORITMIA/05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
-| 06 | [Trabajos en clase](02_FUNDAMENTOS_IA_Y_ALGORITMIA/06_TRABAJOS_EN_CLASE) | Regresión Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
-| 07 | [Trabajo Final](02_FUNDAMENTOS_IA_Y_ALGORITMIA/07_TRABAJO_FINAL) | Caso DataExpert con el dataset Seeds: estadística, álgebra lineal y KNN vs. Árbol | 🔄 |
+| 01 | [Fundamentos IA](01_FUNDAMENTOS_IA) | Teoría introductoria, perceptrón, softmax, KNN y K-Means | ✅ |
+| 02 | [Álgebra y Estadística](02_ALGEBRA_Y_ESTADISTICA) | Vectores, matrices, determinante, inversa, sistemas, valores propios, varianza | ✅ |
+| 03 | [Redes Neuronales](03_REDES_NEURONALES) | Redes densas (Iris, Wine, MNIST, Fashion-MNIST) y CNN para reconocimiento facial | ✅ |
+| 04 | [Visualización de Datos](04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
+| 05 | [Investigación extra](05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
+| 06 | [Trabajos en clase](06_TRABAJOS_EN_CLASE) | Regresión Lineal y Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
+| 07 | [Trabajo Final](07_TRABAJO_FINAL) | Caso DataExpert con el dataset Seeds: estadística, álgebra lineal y KNN vs. Árbol | 🔄 |
 
-### Otras carpetas
+## 📄 Informe
 
-- **[DOCUMENTACION TEORICA/](DOCUMENTACION%20TEORICA)** — Resúmenes en Markdown de la teoría vista en clase.
-- **Claude outputs/** — Material de estudio y apuntes generados con ayuda de IA (referencia personal).
+[`cuaderno_practicas_fundamentos_ia.docx`](cuaderno_practicas_fundamentos_ia.docx) — Cuaderno de prácticas de los temas 01 y 02.
 
-<br>
+## 📖 Empieza aquí
 
-## ⚙️ Cómo ejecutar los notebooks
+➡️ [`01_FUNDAMENTOS_IA/introduccion.md`](01_FUNDAMENTOS_IA/introduccion.md) — teoría introductoria antes de los ejercicios.
 
-```bash
-pip install pandas numpy scikit-learn tensorflow sqlalchemy matplotlib seaborn jupyter
-```
-
-Abre el notebook deseado en Jupyter, VS Code o tu editor preferido, y ejecuta las celdas en orden de arriba hacia abajo.
-
-<br>
-
-## 📌 Notas
-
-Repositorio reorganizado por curso/módulo para facilitar el repaso. Cada carpeta numerada representa un bloque temático dentro de su curso.
+➡️ [`02_ALGEBRA_Y_ESTADISTICA/algebra_y_estadistica_basica.md`](02_ALGEBRA_Y_ESTADISTICA/algebra_y_estadistica_basica.md) — guía práctica con las operaciones y funciones para los ejercicios.

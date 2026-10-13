@@ -17,6 +17,8 @@ Construir, entrenar y evaluar redes neuronales: redes densas para datos tabulare
 | [`01_red_densa_iris.ipynb`](01_red_densa_iris.ipynb) | Clasificación multiclase con Iris (Dense + softmax + EarlyStopping) |
 | [`02_red_densa_wine.ipynb`](02_red_densa_wine.ipynb) | Clasificación multiclase con Wine y comparación de capas de salida |
 | [`03_cnn_reconocimiento_facial.ipynb`](03_cnn_reconocimiento_facial.ipynb) | Reconocimiento facial con CNN (Conv2D + MaxPooling2D) |
+| [`04_red_densa_mnist_digitos.ipynb`](04_red_densa_mnist_digitos.ipynb) | Red densa con MNIST: dígitos escritos a mano (Flatten + Dense + softmax) |
+| [`05_red_densa_fashion_mnist.ipynb`](05_red_densa_fashion_mnist.ipynb) | Red densa con Fashion-MNIST: nombres de prendas, 10 predicciones y `evaluate` |
 
 ## 🗒️ Conclusión
 

@@ -1,4 +1,4 @@
-# 🧪 06 — Trabajos en clase (octubre)
+# 🧪 06 — Trabajos en clase (setiembre – octubre)
 
 <p>
 <a href="../README.md"><img src="https://img.shields.io/badge/⬅️_Menú_del_curso-333333?style=for-the-badge" /></a>
@@ -8,12 +8,13 @@
 
 ## 🎯 Objetivo
 
-Aplicar modelos clásicos de clasificación de scikit-learn (Regresión Logística, Árbol de Decisión, KNN y SVM) sobre distintos datasets, y compararlos con métricas de evaluación.
+Aplicar modelos clásicos de scikit-learn (Regresión Lineal, Regresión Logística, Árbol de Decisión, KNN y SVM) sobre distintos datasets, y compararlos con métricas de evaluación.
 
 ## 📂 Contenido
 
 | Archivo | Fecha | Tema |
 |---|---|---|
+| [`00_28set_pauta_regresion_lineal_logistica.ipynb`](00_28set_pauta_regresion_lineal_logistica.ipynb) | 28/09 | Pauta: Regresión Logística y Regresión Lineal con datos simples |
 | [`01_01oct_regresion_logistica_cancer_mama.ipynb`](01_01oct_regresion_logistica_cancer_mama.ipynb) | 01/10 | Regresión Logística con el dataset de cáncer de mama |
 | [`02_02oct_regresion_logistica_titanic.ipynb`](02_02oct_regresion_logistica_titanic.ipynb) | 02/10 | Regresión Logística con el Titanic (`fetch_openml`) |
 | [`03_03oct_arbol_decision_mnist.ipynb`](03_03oct_arbol_decision_mnist.ipynb) | 03/10 | Árbol de Decisión con MNIST |
