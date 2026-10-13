@@ -21,10 +21,10 @@ Sentar la base matemática necesaria antes de profundizar en Machine Learning: �
 |---|---|---|---|
 | 01 | [Fundamentos IA](01_FUNDAMENTOS_IA) | Teoría introductoria, perceptrón, softmax, KNN y K-Means | ✅ |
 | 02 | [Álgebra y Estadística](02_ALGEBRA_Y_ESTADISTICA) | Vectores, matrices, determinante, inversa, sistemas, valores propios, varianza | ✅ |
-| 03 | [Redes Neuronales](03_REDES_NEURONALES) | Redes densas (Iris, Wine) y CNN para reconocimiento facial | ✅ |
+| 03 | [Redes Neuronales](03_REDES_NEURONALES) | Redes densas (Iris, Wine, MNIST, Fashion-MNIST) y CNN para reconocimiento facial | ✅ |
 | 04 | [Visualización de Datos](04_VISUALIZACION_DATOS) | Reportes estadísticos con pandas y gráficos con Matplotlib/Seaborn | 🔄 |
 | 05 | [Investigación extra](05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
-| 06 | [Trabajos en clase](06_TRABAJOS_EN_CLASE) | Regresión Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
+| 06 | [Trabajos en clase](06_TRABAJOS_EN_CLASE) | Regresión Lineal y Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
 | 07 | [Trabajo Final](07_TRABAJO_FINAL) | Caso DataExpert con el dataset Seeds: estadística, álgebra lineal y KNN vs. Árbol | 🔄 |
 
 ## 📄 Informe
