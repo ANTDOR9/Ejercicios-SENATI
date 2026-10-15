@@ -19,7 +19,8 @@ Aplicar modelos clásicos de scikit-learn (Regresión Lineal, Regresión Logíst
 | [`02_02oct_regresion_logistica_titanic.ipynb`](02_02oct_regresion_logistica_titanic.ipynb) | 02/10 | Regresión Logística con el Titanic (`fetch_openml`) |
 | [`03_03oct_arbol_decision_mnist.ipynb`](03_03oct_arbol_decision_mnist.ipynb) | 03/10 | Árbol de Decisión con MNIST |
 | [`04_04oct_comparacion_arbol_knn_fashion_mnist.ipynb`](04_04oct_comparacion_arbol_knn_fashion_mnist.ipynb) | 04/10 | Comparación Árbol de Decisión vs. KNN con Fashion-MNIST |
-| [`05_taller_svm_rostros_profesor.ipynb`](05_taller_svm_rostros_profesor.ipynb) | — | Práctica del profesor: SVM con rostros (LFW). Tarea: mejorar el código |
+| [`05_taller_svm_rostros_profesor.ipynb`](05_taller_svm_rostros_profesor.ipynb) | 01/10 | Práctica del profesor: SVM con rostros (LFW) |
+| [`06_TAREA_mejorar_accuracy_svm_rostros.ipynb`](06_TAREA_mejorar_accuracy_svm_rostros.ipynb) | 01/10 | **TAREA:** mejorar el accuracy del SVM (StandardScaler, imágenes espejadas, PCA y GridSearchCV) |
 
 ## 🗒️ Conclusión
 
