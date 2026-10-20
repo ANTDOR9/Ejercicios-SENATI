@@ -14,6 +14,7 @@ Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software c
 <a href="01_MACHINE_LEARNING_Y_NLP/05_TRANSFORMERS"><img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge" /></a>
 <a href="01_MACHINE_LEARNING_Y_NLP/06_TRABAJO_FINAL"><img src="https://img.shields.io/badge/🏁_Trabajo_Final-6A1B9A?style=for-the-badge" /></a>
 <a href="02_FUNDAMENTOS_IA_Y_ALGORITMIA"><img src="https://img.shields.io/badge/📐_Fundamentos_IA-0D47A1?style=for-the-badge" /></a>
+<a href="03_MACHINE_LEARNING_Y_DEEP_LEARNING"><img src="https://img.shields.io/badge/🧠_ML_y_Deep_Learning-C62828?style=for-the-badge" /></a>
 <a href="DOCUMENTACION%20TEORICA"><img src="https://img.shields.io/badge/📚_Documentación_Teórica-616161?style=for-the-badge" /></a>
 </p>
 
@@ -44,6 +45,12 @@ Repositorio de prácticas y ejercicios de la carrera **Ingeniería de Software c
 | 05 | [Investigación extra](02_FUNDAMENTOS_IA_Y_ALGORITMIA/05_INVESTIGACION_EXTRA) | Material personal fuera de clase (función de costo 3D) | — |
 | 06 | [Trabajos en clase](02_FUNDAMENTOS_IA_Y_ALGORITMIA/06_TRABAJOS_EN_CLASE) | Regresión Lineal y Logística, Árbol de Decisión, KNN y SVM con distintos datasets | ✅ |
 | 07 | [Trabajo Final](02_FUNDAMENTOS_IA_Y_ALGORITMIA/07_TRABAJO_FINAL) | Caso DataExpert con el dataset Seeds: estadística, álgebra lineal y KNN vs. Árbol | 🔄 |
+
+### 03_MACHINE_LEARNING_Y_DEEP_LEARNING/ — Curso: Machine Learning y Deep Learning (en progreso 🔄)
+
+| # | Carpeta | Contenido | Estado |
+|---|---|---|---|
+| 01 | [Prácticas](03_MACHINE_LEARNING_Y_DEEP_LEARNING/01_PRACTICAS) | K-Means, PCA, escalado, métricas de clustering y método del codo | 🔄 |
 
 ### Otras carpetas
 
